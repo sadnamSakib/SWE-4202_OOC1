@@ -1,0 +1,11 @@
+D:\OOC LAB\Library Management System v2.0\obj\Debug\Library Management System v2.0.csproj.AssemblyReference.cache
+D:\OOC LAB\Library Management System v2.0\obj\Debug\Library Management System v2.0.csproj.SuggestedBindingRedirects.cache
+D:\OOC LAB\Library Management System v2.0\obj\Debug\Library_Management_System_v2._0.Properties.Resources.resources
+D:\OOC LAB\Library Management System v2.0\obj\Debug\Library Management System v2.0.csproj.GenerateResource.cache
+D:\OOC LAB\Library Management System v2.0\obj\Debug\Library Management System v2.0.csproj.CoreCompileInputs.cache
+D:\OOC LAB\Library Management System v2.0\bin\Debug\Library Management System v2.0.exe.config
+D:\OOC LAB\Library Management System v2.0\bin\Debug\Library Management System v2.0.exe
+D:\OOC LAB\Library Management System v2.0\bin\Debug\Library Management System v2.0.pdb
+D:\OOC LAB\Library Management System v2.0\obj\Debug\Library Management System v2.0.exe
+D:\OOC LAB\Library Management System v2.0\obj\Debug\Library Management System v2.0.pdb
+D:\OOC LAB\Library Management System v2.0\obj\Debug\Library_Management_System_v2._0.libraryManagementSystemV2.resources
