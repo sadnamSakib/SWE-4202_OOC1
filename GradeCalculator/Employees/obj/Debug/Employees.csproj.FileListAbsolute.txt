@@ -1,0 +1,11 @@
+D:\OOC LAB\GradeCalculator\Employees\bin\Debug\Employees.exe.config
+D:\OOC LAB\GradeCalculator\Employees\bin\Debug\Employees.exe
+D:\OOC LAB\GradeCalculator\Employees\bin\Debug\Employees.pdb
+D:\OOC LAB\GradeCalculator\Employees\obj\Debug\Employees.csproj.AssemblyReference.cache
+D:\OOC LAB\GradeCalculator\Employees\obj\Debug\Employees.csproj.SuggestedBindingRedirects.cache
+D:\OOC LAB\GradeCalculator\Employees\obj\Debug\Employees.Form1.resources
+D:\OOC LAB\GradeCalculator\Employees\obj\Debug\Employees.Properties.Resources.resources
+D:\OOC LAB\GradeCalculator\Employees\obj\Debug\Employees.csproj.GenerateResource.cache
+D:\OOC LAB\GradeCalculator\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+D:\OOC LAB\GradeCalculator\Employees\obj\Debug\Employees.exe
+D:\OOC LAB\GradeCalculator\Employees\obj\Debug\Employees.pdb
