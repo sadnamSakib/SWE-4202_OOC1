@@ -1,0 +1,6 @@
+D:\OOC LAB\Laundry_Dependencies\obj\Debug\Laundry_Dependencies.csproj.AssemblyReference.cache
+D:\OOC LAB\Laundry_Dependencies\obj\Debug\Laundry_Dependencies.csproj.CoreCompileInputs.cache
+D:\OOC LAB\Laundry_Dependencies\bin\Debug\Laundry_Dependencies.dll
+D:\OOC LAB\Laundry_Dependencies\bin\Debug\Laundry_Dependencies.pdb
+D:\OOC LAB\Laundry_Dependencies\obj\Debug\Laundry_Dependencies.dll
+D:\OOC LAB\Laundry_Dependencies\obj\Debug\Laundry_Dependencies.pdb
