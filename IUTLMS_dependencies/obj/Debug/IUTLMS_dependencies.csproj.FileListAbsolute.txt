@@ -1,0 +1,6 @@
+D:\OOC LAB\IUTLMS_dependencies\bin\Debug\IUTLMS_dependencies.dll
+D:\OOC LAB\IUTLMS_dependencies\bin\Debug\IUTLMS_dependencies.pdb
+D:\OOC LAB\IUTLMS_dependencies\obj\Debug\IUTLMS_dependencies.csproj.AssemblyReference.cache
+D:\OOC LAB\IUTLMS_dependencies\obj\Debug\IUTLMS_dependencies.csproj.CoreCompileInputs.cache
+D:\OOC LAB\IUTLMS_dependencies\obj\Debug\IUTLMS_dependencies.dll
+D:\OOC LAB\IUTLMS_dependencies\obj\Debug\IUTLMS_dependencies.pdb
