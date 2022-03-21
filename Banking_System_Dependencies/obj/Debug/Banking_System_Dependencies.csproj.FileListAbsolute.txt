@@ -1,0 +1,6 @@
+D:\OOC LAB\Banking_System_Dependencies\bin\Debug\Banking_System_Dependencies.dll
+D:\OOC LAB\Banking_System_Dependencies\bin\Debug\Banking_System_Dependencies.pdb
+D:\OOC LAB\Banking_System_Dependencies\obj\Debug\Banking_System_Dependencies.csproj.AssemblyReference.cache
+D:\OOC LAB\Banking_System_Dependencies\obj\Debug\Banking_System_Dependencies.csproj.CoreCompileInputs.cache
+D:\OOC LAB\Banking_System_Dependencies\obj\Debug\Banking_System_Dependencies.dll
+D:\OOC LAB\Banking_System_Dependencies\obj\Debug\Banking_System_Dependencies.pdb
